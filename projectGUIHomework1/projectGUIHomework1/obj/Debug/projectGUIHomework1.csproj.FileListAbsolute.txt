@@ -1,0 +1,16 @@
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.csproj.AssemblyReference.cache
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\MainWindow.g.cs
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\App.g.cs
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1_MarkupCompile.cache
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1_MarkupCompile.lref
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\bin\Debug\projectGUIHomework1.exe.config
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\bin\Debug\projectGUIHomework1.exe
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\bin\Debug\projectGUIHomework1.pdb
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\MainWindow.baml
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.g.resources
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.Properties.Resources.resources
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.csproj.GenerateResource.cache
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.csproj.CoreCompileInputs.cache
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.exe
+C:\Users\Fewz_kitnarong\source\repos\projectGUIHomework1\projectGUIHomework1\obj\Debug\projectGUIHomework1.pdb
